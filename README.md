@@ -1,4 +1,4 @@
-# .github
+# https://gravatar.com/chubbieanalyst
 RainbowScientist Playground Organization✨🌈
 🙋‍♀️ Welcome to the #🌈✨RainbowScientist Playground Organization✨🌈
 
