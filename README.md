@@ -1,4 +1,4 @@
-# https://gravatar.com/chubbieanalyst
+# https://gravatar.com/rainbowbeast5
 RainbowScientist Playground Organization✨🌈
 🙋‍♀️ Welcome to the #🌈✨RainbowScientist Playground Organization✨🌈
 
