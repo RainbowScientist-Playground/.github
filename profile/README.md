@@ -1,6 +1,8 @@
 # 🌈✨RainbowScientist Playground Organization✨🌈
 
 🙋‍♀️ Welcome to the #🌈✨RainbowScientist Playground Organization✨🌈
+![1x1-42817eea7ade52607a760cbee00d1495](https://github.com/user-attachments/assets/240fe66c-d817-4976-b886-8e6a59d71f40)
+![Rainbow Unicorn](https://github.com/user-attachments/assets/4b014736-e027-4613-8650-5a0d46c842ec)
 
 ✨ Our mission is to showcase and demonstrate the best that GitHub has to offer. We focus on creating repositories that highlight various features and best practices for effective code management 👨🏽‍💼 and collaboration 🫂.
 
