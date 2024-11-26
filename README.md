@@ -29,7 +29,7 @@ If you're eager to contribute, we're open to everyone's input. Here’s how you 
 📝 Submit a pull request with a clear description of your changes
 🪪 License
 
-This organization and its repositories are licensed under Ⓜ️IT.
+This organization and its repositories are licensed under CC 4️⃣⛓️‍💥
 
 💡 Getting Started
 
