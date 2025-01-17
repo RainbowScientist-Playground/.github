@@ -1,6 +1,6 @@
-# 🌈✨RainbowScientist Playground Organization✨🌈
+# 🌈✨Rainbow Scientists DevOps Technology✨🌈
 
-🙋‍♀️ Welcome to the #🌈✨RainbowScientist Playground Organization✨🌈
+🙋‍♀️ Welcome to the #🌈✨Rainbow Scientists DevOps Technologyn✨🌈
 ![1x1-42817eea7ade52607a760cbee00d1495](https://github.com/user-attachments/assets/240fe66c-d817-4976-b886-8e6a59d71f40)
 ![Rainbow Unicorn](https://github.com/user-attachments/assets/4b014736-e027-4613-8650-5a0d46c842ec)
 
@@ -8,12 +8,12 @@
 
 ## 🍿 Featured Repository
 
-The Demo Repository is a collection of projects and code samples available on GitHub under the 🌈✨RainbowScientist Playground✨🌈 organization. It includes various repositories such as:
+The Demo Repository is a collection of projects and code samples available on GitHub under the 🌈✨Rainbow Scientists DevOps Technology✨🌈. It includes various repositories such as:
 - 🦄 Implementations of nodes for the Polygon zkEVM Network
 - 🔷 Ethereum wallet applications
 - ⛓️‍💥 Blockchain-related code
 
-For more details, you can visit the 🌈✨RainbowScientist Playground Organization✨🌈 on GitHub.
+For more details, you can visit the 🌈✨Rainbow Scientists DevOps Technology✨🌈 on GitHub.
 
 ## Repository Contents
 
