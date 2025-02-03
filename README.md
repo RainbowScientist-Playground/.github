@@ -1,4 +1,4 @@
-    If you are trying to move a PR you made to `ethereum/eips` over to `ethereum/ercs`, the steps below will guide you through the process:
+
 
 1. Fork this repository within GitHub:
     1. Navigate to [ethereum/ERCs](https://github.com/ethereum/ERCs).
