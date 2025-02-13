@@ -1,4 +1,4 @@
-
+https://rainbowbeast.substack.com/p/ddb9339f-d94d-4739-bca6-8171b5e2dcff
 
 1. Fork this repository within GitHub:
     1. Navigate to [ethereum/ERCs](https://github.com/ethereum/ERCs).
