@@ -1,5 +1,4 @@
-# https://gravatar.com/rainbowbeast5
-        =##🍎
+
 🙋‍♀️ Welcome to the #🌈✨RainbowScientist Playground Organization✨🌈
 
 ✨ Our mission is to showcase and demonstrate the best that GitHub has to offer. We focus on creating repositories that highlight various features and best practices for effective code management 👨🏽‍💼 and collaboration 🫂.
@@ -29,7 +28,7 @@ If you're eager to contribute, we're open to everyone's input. Here’s how you 
 📝 Submit a pull request with a clear description of your changes
 🪪 License
 
-This organization and its repositories are licensed under Ⓜ️IT.
+This organization and its repositories are licensed under CC 4️⃣⛓️‍💥
 
 💡 Getting Started
 
